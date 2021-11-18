@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @NathMcCluskey
 - 👀 I’m interested in mechanical enginering and mechanical design. 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me nathan@nmed.co.uk or via my website www.nmed.co.uk
 
 <!---
 NathMcCluskey/NathMcCluskey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
